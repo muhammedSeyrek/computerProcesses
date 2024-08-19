@@ -8,6 +8,7 @@
 	the sevenzipfile location located inside the file may be in a different location on zipProcess.py
 
 ##### In this study, it was tried to prove which zip opener is good.
+	file size in test: 4.6 GB
 	Compress times in a related file:
 		Zipfile = 25.27
 		Pyzipper = 21.15
